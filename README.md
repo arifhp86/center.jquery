@@ -4,7 +4,7 @@
 `$('.center-image').center();`
 
 Default options
-vartical: true 
-horizontal: true
-animate: false
+* vartical: true 
+* horizontal: true
+* animate: false
 
