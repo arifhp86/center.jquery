@@ -10,8 +10,11 @@ Center any element vartically and horizontally with a cute animation. This is an
 * animate: false
 
 ##### Activate with options
-```$('.center-image').center({
-			animate: true
-		});```
+```
+$('.center-image').center({
+	vartical: false,
+	animate: true
+});
+```
 
 
