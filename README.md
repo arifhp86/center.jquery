@@ -1,7 +1,7 @@
 # Center.jquery
 
 ## How to activate?
-```$('.center-image').center();```
+`$('.center-image').center();`
 
 Default options
 vartical: true 
